@@ -2,6 +2,7 @@
 
 ## Learning Goals
 
+- CRUD
 - POST method
 - PATCH method
 - DELETE method
