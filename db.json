@@ -2,27 +2,8 @@
   "ufo-sightings": [
     {
       "content": "Above the World's Fair in Queens",
-      "id": 1
-    },
-    {
-      "content": "Over Farmer John's corn fields",
-      "id": 2
-    },
-    {
-      "content": "I saw something last sunday of June, it looked like a holographic diamond shaped thing near union square, very reflective and moving a little bit (possibly a projection)",
-      "id": 4
-    },
-    {
-      "content": "Star Wars characters just everywhere near the Javitz Center",
-      "id": 6
-    },
-    {
-      "content": "Inside the Pyramids",
-      "id": 8
-    },
-    {
-      "content": "Outside the pyramids",
-      "id": 9
+      "id": "1",
+      "verifications": 1
     }
   ]
 }
